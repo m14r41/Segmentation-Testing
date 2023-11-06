@@ -1,8 +1,8 @@
 
-**The repository provides scripts for both Linux and Windows environments, making it versatile and accessible to a wide range of users.**
+```The repository provides scripts for both Linux and Windows environments, making it versatile and accessible to a wide range of users.```
 
 
-#### The VLAN scanning tool is designed to assist in network reconnaissance by performing targeted scans on a specified list of IP addresses within a subnet. This tool offers the following features:
+> The VLAN scanning tool is designed to assist in network reconnaissance by performing targeted scans on a specified list of IP addresses within a subnet. This tool offers the following features.
 
 1. **Scan Live Subnet IP Addresses:** The tool scans the entire provided subnet to identify all live IP addresses, saving the results. It also provides the total count of live IP addresses in the subnet.
 
