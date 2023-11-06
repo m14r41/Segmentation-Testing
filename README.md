@@ -4,6 +4,8 @@
 
 > The VLAN scanning tool is designed to assist in network reconnaissance by performing targeted scans on a specified list of IP addresses within a subnet. This tool offers the following features.
 
+
+
 1. **Scan Live Subnet IP Addresses:** The tool scans the entire provided subnet to identify all live IP addresses, saving the results. It also provides the total count of live IP addresses in the subnet.
 
 2. **Scan Specific IP Addresses:** Users can input one or more specific IP addresses, and the tool checks their live status and saves the results.
