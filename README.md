@@ -3,6 +3,7 @@
 
 
 > The VLAN scanning tool is designed to assist in network reconnaissance by performing targeted scans on a specified list of IP addresses within a subnet. This tool offers the following features.
+![image](https://github.com/m14r41/NetworkScan/assets/95265573/1f5701c4-8026-4f5c-a7b1-f5fcccfdd458)
 
 
 
